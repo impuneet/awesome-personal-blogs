@@ -89,6 +89,7 @@
 - [Omar Bahareth](https://omar.engineer/)
 - [Paolo Melchiorre](https://www.paulox.net/)
 - [PC Maffey](https://www.pcmaffey.com/)
+- [Puneet Sharma](http://www.iampuneet.in/)
 - [Philipp Spiess](https://philippspiess.com/)
 - [Rachel Kroll](https://rachelbythebay.com/w/)
 - [Reginald Braithwaite](https://raganwald.com/)
